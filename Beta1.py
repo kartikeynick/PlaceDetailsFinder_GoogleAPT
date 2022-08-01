@@ -37,7 +37,7 @@ if __name__=='__main__':
     #The API Key
     #apik=input("Enter your API Key")
 
-    apik='AIzaSyBqS_5RBg_KE5zV3QXQV5e9R1ytkUt3G1Q&'
+    apik='Your API Key'
     #Making the map client to pass in the Query
     #map_client=googlemaps.Client(apik)
 
